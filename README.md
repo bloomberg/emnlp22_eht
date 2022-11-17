@@ -6,7 +6,7 @@ This repository references the evaluation sets used in
 
 You can download the full dataset through [Zenodo](https://zenodo.org/record/7312046).
 
-This corpus contains parse annotations for English news headlines and a script to produce conllu files joined with original headline text.
+This corpus contains parsed annotations for English news headlines and a script to produce CoNLL-U files joined with the original headline text.
 
 ----------------------------------------
 
